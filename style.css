@@ -1,0 +1,24 @@
+/* CSS styling */
+
+button {
+    background-color: bisque;
+    color:brown;
+}
+
+.overview {
+    color: blue;
+}
+
+.subscribe {
+    font-weight: bold;
+}
+    
+.subscribe button {
+    align-items: center;
+    background-color: green;
+    font-weight: bold;
+    color: white;
+    display: block;        /* Make button a block-level element */
+    width: 200px;          /* Optional: Set a width for the button */
+    margin: 0 auto;        /* Automatically adjust left and right margins to center the button */
+}
