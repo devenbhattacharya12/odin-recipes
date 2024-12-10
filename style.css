@@ -18,7 +18,12 @@ button {
     background-color: green;
     font-weight: bold;
     color: white;
+    font-size: 18px;
+    padding: 18px;
     display: block;        /* Make button a block-level element */
-    width: 200px;          /* Optional: Set a width for the button */
     margin: 0 auto;        /* Automatically adjust left and right margins to center the button */
+}
+
+li {
+    margin-bottom: 10px;
 }
